@@ -1,1 +1,1 @@
-node ./index.js -f
+web: node ./index.js -f
