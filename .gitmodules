@@ -1,6 +1,0 @@
-[submodule "node_modules/wiki-client"]
-	path = node_modules/wiki-client
-	url = https://github.com/jferrara77/wiki-client
-[submodule "node_modules/wiki-node-server"]
-	path = node_modules/wiki-node-server
-	url = https://github.com/jferrara77/wiki-node-server
