@@ -27,8 +27,8 @@
     "config-chain": "1.1",
     "glob": "5.0",
     "optimist": "0.6",
-    "wiki-server": "https://github.com/jferrara77/wiki-node-server.git#metaweb",
-    "wiki-client": "https://github.com/jferrara77/wiki-client.git#metaweb",
+    "wiki-server": "git+https://github.com/jferrara77/wiki-node-server.git",
+    "wiki-client": "git+https://github.com/jferrara77/wiki-client.git",
     "wiki-plugin-activity": "0.2",
     "wiki-plugin-audio": "0.1",
     "wiki-plugin-bars": "0.3",
@@ -71,6 +71,9 @@
     "wiki-plugin-twadio": "0.2",
     "wiki-plugin-txtzyme": "0.2",
     "wiki-plugin-video": "0.2"
+  },
+  "env": {
+     "PYTHON": "/usr/bin/python"
   },
   "devDependencies": {
     "grunt": "~0.4",
