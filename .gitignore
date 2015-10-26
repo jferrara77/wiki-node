@@ -1,4 +1,6 @@
 data
-node_modules
+node_modules/*
+!node_modules/wiki-client
+!node_modules/wiki-node-server
 *.log
 
