@@ -72,10 +72,8 @@
     "wiki-plugin-txtzyme": "0.2",
     "wiki-plugin-video": "0.2"
   },
-  "env": {
-     "PYTHON": "/usr/bin/python"
-  },
   "devDependencies": {
+    "node-gyp": "0.10.10",
     "grunt": "~0.4",
     "grunt-git-authors": "~3"
   },
